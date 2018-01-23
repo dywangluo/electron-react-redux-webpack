@@ -1,14 +1,12 @@
 # electron-react-redux-webpack
 
-## 使用
+## to use
 
 ```bash
-#首先安装cnpm
+#install cnpm
 npm install -g cnpm --registry=https://registry.npm.taobao.org
-
-#使用cnpm进行安装，使用方法和npm相同
+#Install global electron
 cnpm install -g electron
-
 # Install dependencies
 cnpm install
 # Run the app
